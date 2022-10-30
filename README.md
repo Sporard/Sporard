@@ -1,7 +1,7 @@
 ## Who am I ?
 - 👋 Hi, I’m @Sporard
 - 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently learning how to make your own search engine 
+- 🌱 I’m currently learning Rust
 - 💻 Currently for Infomaniak in Geneva
 
 ## What do I do ?
