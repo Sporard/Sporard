@@ -1,7 +1,6 @@
 ## Who am I ?
 - 👋 Hi, I’m @Sporard
-- 👀 I’m interested in Web Development and Cybersecurity
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Web Development, Cybersecurity and others things 
 - 💻 Currently for Infomaniak in Geneva
 
 ## What do I do ?
