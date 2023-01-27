@@ -7,7 +7,7 @@
 
 <p align="center">
   <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=sporard&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sporard&layout=compact&hide_border=true&bg_color=00000000">
+  <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sporard&theme=gruvbox&layout=compact&hide_border=true&bg_color=00000000">
 </p>
 
 
