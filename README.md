@@ -1,7 +1,7 @@
 ## Who am I ?
 - 👋 Hi, I’m @Sporard
 - 👀 I’m interested in Web Development, ios development, Cybersecurity and others things 
-- 💻 Currently for Infomaniak in Geneva
+- 💻 Currently looking for job opportunities in Geneva and Lyon
 
 ## What do I do ?
 
