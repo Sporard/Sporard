@@ -9,7 +9,7 @@
 
 ## Skills and Tools
 
-![PHP]([https://img.shields.io/badge/PHP](https://img.shields.io/badge/PHP-Laravel-yellow))
+![PHP](https://img.shields.io/badge/PHP-Laravel-yellow)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/AngularJS-Angular-61DAFB?logo=angular&logoColor=white)
