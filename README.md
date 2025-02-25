@@ -1,4 +1,4 @@
-# Hi there, I'm Sporard 👋
+# Hi there, I'm Pierre S. 👋
 
 ## About Me
 
