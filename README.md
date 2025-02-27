@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning Java Spring-Boot and mastering Angular
+- 🌱 I’m currently learning Java Spring-Boot, C#, .NET and mastering Angular
 - 👯 I’m looking to collaborate on Backend development
 - 💬 Ask me about web development mostly backend
 - 📫 How to reach me: see my linkedin profile
@@ -33,4 +33,3 @@
 - [Chancus]([https://github.com/Sporard/Project2](https://github.com/Sporard/Chancus))
   - Description: Androïd application that chooses randomly user's input to help decisions making.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sporard&color=brightgreen)
