@@ -3,7 +3,7 @@
 ## About Me
 
 - 🌱 I’m currently learning Java Spring-Boot, C#, .NET and mastering Angular
-- 👯 I’m looking to collaborate on Backend development
+- 👯 I’m working as an R&D developer for Esker
 - 💬 Ask me about web development mostly backend
 - 📫 How to reach me: see my linkedin profile
 
